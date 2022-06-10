@@ -1,1 +1,1 @@
-web: sh streamlit_setup.sh && streamlit run presh_perfume collection.py
+web: sh streamlit_setup.sh && streamlit run perfume.py
